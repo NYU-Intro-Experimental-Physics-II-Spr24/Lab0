@@ -15,7 +15,7 @@ Lab0 has **two** deliverables:
 
 
 # Lab report instructions
-We will use [Overleaf]() to write lab reports in this course. Here is a general [template and instructions]() for your lab reports which also contains some useful examples. For Lab0 lab report, please start from the [Lab0 template]() and complete all the TODOs. Submit a pdf of your report BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6). 
+We will use [Overleaf]() to write lab reports in this course. Here is a general [template and instructions]() for your lab reports which also contains some useful examples. For Lab0 lab report, please start from the [Lab0 template]() and complete all the TODOs. Submit a pdf of your report on Brightspace BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6). 
 
 
 # Colab notebook instructions 
@@ -35,4 +35,4 @@ Ensure that Colaboratory has access to your private repositories on GitHub.  (By
 All of the assignment instructions are in the Colab (.ipynb) notebook. You should do your work on the assignment in the *copied* notebook (i.e., the copied notebook that you have the ability to save and edit). Once you have gone through the entire notebook and filled in any missing pieces of code and/or text, you can submit your work. 
 
 ## Submit your work
-Submitting the assignment entails syncing your copy of the notebook with your GitHub repository (in this case, `NYU-Intro-Experimental-Physics-II-Spr24/Lab0-<username>`, with `<username>` replaced with your GitHub username).  From within Colaboratory, open your notebook and click File > Save a copy in GitHub.  Select `NYU-Intro-Experimental-Physics-II-Spr24/Lab0-<username>` from the Repository drop-down menu, and type '`Lab0.ipynb`' into the File path text box.  Optionally, you may also enter a description into the "Commit message" text box (or you can just leave the default message).  Make sure that the "Include a link to Colaboratory" box is checked, and press "OK".  A new tab or window should open up, displaying your submitted notebook from within your GitHub repository.
+Submitting the assignment entails syncing your copy of the notebook with your GitHub repository (in this case, `NYU-Intro-Experimental-Physics-II-Spr24/Lab0-<username>`, with `<username>` replaced with your GitHub username).  From within Colaboratory, open your notebook and click File > Save a copy in GitHub.  Select `NYU-Intro-Experimental-Physics-II-Spr24/Lab0-<username>` from the Repository drop-down menu, and type '`Lab0.ipynb`' into the File path text box.  Optionally, you may also enter a description into the "Commit message" text box (or you can just leave the default message).  Make sure that the "Include a link to Colaboratory" box is checked, and press "OK".  A new tab or window should open up, displaying your submitted notebook from within your GitHub repository. Submit your code BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6).
