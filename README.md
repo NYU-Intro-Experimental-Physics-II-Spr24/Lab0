@@ -1,8 +1,6 @@
-# Lab0
+# Lab 0 [IEP II, Spring 2024]
 
-Lab0 for IEP II Spring 2024
-
-LAB0 IS DUE BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6). 
+LAB 0 IS DUE BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6). 
 
 This read me and associated assignment are adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/) and from [Marc Gershow's NYUExperimentalPhysics1-2021/Assignment0
 ](github.com/NYU-IEP-2022-2023-Assignments/Assignment0).
