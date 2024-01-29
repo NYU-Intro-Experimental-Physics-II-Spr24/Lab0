@@ -18,7 +18,7 @@ We will use [Overleaf](https://www.overleaf.com/learn) to write lab reports in t
 
 # Colab notebook instructions 
 ## Setup
-Use [this link](https://classroom.github.com/a/AfqMQJGp) to officially accept Lab0. When you accept an assignment (e.g., using the GitHub classroom link above) this uses the assignment's template repository to create a personal "fork" (copy) of the files.  A message should inform you where this fork is located (i.e., a web address); this will normally be something like `https://github.com/NYU-Intro-Experimental-Physics-II-Spr24//Lab0-<username>`, where "`<username>`" is replaced with your actual GitHub username.
+Use [this link](https://classroom.github.com/a/iZSRGeXh) to officially accept Lab0. When you accept an assignment (e.g., using the GitHub classroom link above) this uses the assignment's template repository to create a personal "fork" (copy) of the files.  A message should inform you where this fork is located (i.e., a web address); this will normally be something like `https://github.com/NYU-Intro-Experimental-Physics-II-Spr24//Lab0-<username>`, where "`<username>`" is replaced with your actual GitHub username.
 
 Next, open (click) the `Lab0.ipynb` notebook and then click on the blue "Open in Colab" button at the top. A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
 
