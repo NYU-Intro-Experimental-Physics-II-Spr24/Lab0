@@ -13,7 +13,7 @@ Lab0 has **two** deliverables:
 
 
 # Lab report instructions
-We will use [Overleaf](https://www.overleaf.com/learn) to write lab reports in this course. Here is a general [template and instructions]() for your lab reports which also contains some useful examples. For your Lab0 lab report, please make an editable copy of the [Lab0 template](https://www.overleaf.com/read/gkmzrjkdgfwj#d6fa91) in Overleaf and complete all the TODOs. Submit a pdf of your report on Brightspace BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6). 
+We will use [Overleaf](https://www.overleaf.com/learn) to write lab reports in this course. Here is a general [template and instructions](https://www.overleaf.com/read/mjdkfzvkxkxn#de79ff) for your lab reports which also contains some useful examples showing how to use Overleaf and LaTeX. For your Lab0 lab report, please make an editable copy of the [Lab0 template](https://www.overleaf.com/read/gkmzrjkdgfwj#d6fa91) in Overleaf and complete all the TODOs. Submit a pdf of your report on Brightspace BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6). 
 
 
 # Colab notebook instructions 
