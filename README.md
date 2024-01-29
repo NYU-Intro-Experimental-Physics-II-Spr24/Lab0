@@ -1,6 +1,6 @@
-# Lab 0 [IEP II, Spring 2024]
+# Lab0 [IEP II, Spring 2024]
 
-LAB 0 IS DUE BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6). 
+LAB0 IS DUE BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6). 
 
 This read me and associated assignment are adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/) and from [Marc Gershow's NYUExperimentalPhysics1-2021/Assignment0
 ](github.com/NYU-IEP-2022-2023-Assignments/Assignment0).
@@ -8,12 +8,12 @@ This read me and associated assignment are adapted from [Jeremey Manning's Psych
 
 # IMPORTANT INFORMATION ABOUT LAB0 DELIVERABLES
 Lab0 has **two** deliverables:
-1. A lab report, which you will write in Overleaf and submit on Brightspace. Please use the template [here]() to write your lab report. 
+1. A lab report, which you will write in Overleaf and submit on Brightspace. Please use the template [here](https://www.overleaf.com/read/gkmzrjkdgfwj#d6fa91) to write your lab report. 
 2. A Colab notebook, which you will submit via Github Classroom. The instructions for opening, editing, and submitting this notebook for Lab0 are the same as for Assignment1 that you completed last week.
 
 
 # Lab report instructions
-We will use [Overleaf]() to write lab reports in this course. Here is a general [template and instructions]() for your lab reports which also contains some useful examples. For Lab0 lab report, please start from the [Lab0 template]() and complete all the TODOs. Submit a pdf of your report on Brightspace BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6). 
+We will use [Overleaf](https://www.overleaf.com/learn) to write lab reports in this course. Here is a general [template and instructions]() for your lab reports which also contains some useful examples. For your Lab0 lab report, please make an editable copy of the [Lab0 template](https://www.overleaf.com/read/gkmzrjkdgfwj#d6fa91) in Overleaf and complete all the TODOs. Submit a pdf of your report on Brightspace BY THE BEGINNING OF YOUR LAB SECTION NEXT WEEK (FEB 5 or FEB 6). 
 
 
 # Colab notebook instructions 
